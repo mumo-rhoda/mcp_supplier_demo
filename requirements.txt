@@ -1,0 +1,6 @@
+streamlit>=1.50,<2
+fastapi>=0.118,<1
+uvicorn[standard]>=0.37,<1
+httpx>=0.28,<1
+mcp==1.26.0
+pydantic>=2.11,<3
