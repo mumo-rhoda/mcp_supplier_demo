@@ -1,0 +1,5 @@
+[
+ {"id":"KE001","name":"Leny Enterprises","country":"Kenya","tax_id":"KE123456","status":"active"},
+ {"id":"UG001","name":"Kampala Office Supplies","country":"Uganda","tax_id":"UG234567","status":"active"},
+ {"id":"TZ001","name":"Dar Logistics","country":"Tanzania","tax_id":"TZ345678","status":"inactive"}
+]
